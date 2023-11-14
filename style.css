@@ -3,11 +3,17 @@ body{
     margin: 0%;
     box-sizing: border-box;
 }
+.background-effect{
+    background: linear-gradient(135deg, #040641 10.47%, #3F0753 98.32%);
+
+}
 .container{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background: linear-gradient(135deg, #040641 10.47%, #3F0753 98.32%);
+    padding-top: 49px;
+    
+    
 }
 .navbar-left{
     display: flex;
@@ -36,7 +42,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background: linear-gradient(135deg, #040641 10.47%, #3F0753 98.32%);
+    margin-top: 84px;
+    
 
 }
 .first-section-title{
@@ -44,4 +51,33 @@ body{
 }
 .first-section h1 {
     color: white;
+    font-size: 72px;
+    margin-top: 32px;
+    
+}
+.first-section-p{
+    color: #FFFFFF;
+}
+.about-contact{
+    display: flex;
+    
+}
+.about-btn{
+    border: 1px solid #EF6D58 ;
+    border-radius: 5px;
+    background-color: #EF6D58;
+    color: white;
+    padding: 15px;
+    margin-right: 10px;
+}
+
+.image-one{
+    width: 400px;
+    padding-top: 172px;
+    
+}
+.social-image{
+    padding: 70px;
+    text-align: center;
+    
 }
