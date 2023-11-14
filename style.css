@@ -81,3 +81,24 @@ body{
     text-align: center;
     
 }
+
+/* section three start */
+.section-three{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 242px;
+    padding-bottom: 242px;
+    
+}
+.s-three-img{
+    width: 400px;
+    
+}
+.s-three-title{
+    font-size: 40px;
+    color: white;
+}
+.s-three-p{
+    color: white;
+}
