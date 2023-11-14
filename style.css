@@ -81,7 +81,24 @@ body{
     text-align: center;
     
 }
-
+/* section two */
+.s-two{
+    background-color: #FDF0E9;
+    
+}
+.s-two h1{
+    font-size: 56px;
+    padding-top:50px ;
+    text-align: center;
+    color: #391400;
+}
+.s-two-img{
+    width: 50px;
+    margin: 68px;
+}
+.tech-image{
+    
+}
 /* section three start */
 .section-three{
     display: flex;
