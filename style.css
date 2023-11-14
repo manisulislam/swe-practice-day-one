@@ -1,0 +1,47 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: linear-gradient(135deg, #040641 10.47%, #3F0753 98.32%);
+}
+.navbar-left{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.nav-title{
+    color: white;
+}
+.nav-route{
+    display: flex;
+    color: white;
+    
+}
+.nav-route h3{
+    margin-right: 15px;
+}
+.btn-contact{
+    background-color: #3F0753;
+    border: none;
+    color: white;
+    padding: 15px;
+
+}
+.first-section{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: linear-gradient(135deg, #040641 10.47%, #3F0753 98.32%);
+
+}
+.first-section-title{
+    color: #EF6D58;
+}
+.first-section h1 {
+    color: white;
+}
